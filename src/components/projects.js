@@ -10,7 +10,7 @@ class Projects extends Component{
 		if(this.state.activeTab === 0){
 		return(
 			<div className="projects-grid">
-			<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+			<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom:'20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					First job experience 
 				</CardTitle>
@@ -29,7 +29,7 @@ class Projects extends Component{
 				</CardMenu>
 			</Card>
 
-			<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+			<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom: '20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					Second job Experience
 				</CardTitle>
@@ -50,7 +50,7 @@ class Projects extends Component{
 				</CardMenu>
 			</Card>
 
-			<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+			<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom:'20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					Third job Experience
 				</CardTitle>
@@ -77,7 +77,7 @@ class Projects extends Component{
 			)
 		}else if (this.state.activeTab ===1){
 			return(
-				<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+				<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom:'20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					Fourth Job Experience 
 				</CardTitle>
@@ -104,7 +104,7 @@ class Projects extends Component{
 			)
 		}else if (this.state.activeTab ===2){
 			return(
-				<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+				<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom:'20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					Fifth job Experience
 				</CardTitle>
@@ -128,7 +128,7 @@ class Projects extends Component{
 		}
 		else if (this.state.activeTab ===3){
 			return(
-				<Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+				<Card shadow={5} style={{minWidth:'450', margin:'auto', marginBottom:'20px'}}>
 				<CardTitle style={{color:'#000', height:'176px',background:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSsrwfSpTiyeCHMmZUA4xeEACB8tMnMEoGJ1jdoiQgeKKwg76) center/cover'}}>
 					Sixth job experence ?
 				</CardTitle>

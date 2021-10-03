@@ -18,7 +18,7 @@ class Resume extends Component{
 							/>
 					</div>
 					<h2 style={{paddingTop:'2em'}}> Inder Singh </h2>
-					<h4 style={{color:"grey"}}> programmer </h4>
+					<h4 style={{color:"grey"}}> Developer </h4>
 					<hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
 					<p>
 					Career and skills
@@ -33,7 +33,7 @@ class Resume extends Component{
 					<h5>Email Address</h5>
 					<p>inder.org@gmail.com</p>
 					<h5>Website</h5>
-					<p><a href="inderdev.com">www.inderorg.online</a></p>
+					<p><a href="https://inderorg.online">https://inderorg.online</a></p>
 					<hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
 
 
@@ -64,10 +64,10 @@ class Resume extends Component{
 					/>
 
 					<Experience 
-					startYear={2012}
-					endYear={2014}
-					jobName='FrontEnd Engineer'
-					jobDescription = 'UI frontend '
+					startYear={2014}
+					endYear={2021}
+					jobName='UI/UX Developer, frontend , UI and UX , Design, wireframe, prototype, Deigning brands and visual designs'
+					jobDescription = 'UI/UX Complete solution'
 
 					/>
 					<hr style={{borderTop:'3px solid #eee'}}/>
