@@ -13,28 +13,28 @@ class LandingPage extends Component{
 						className="avatar-img"
 					/>
 					<div className="banner-text">
-						<h1> Full Stack Developer </h1>
+						<h1>Frontend and Full Stack Developer </h1>
 						<hr/>
 						<p>
 						HTML | CSS | BootStrap | JavaScript | React | React Native | NodeJs | Express | MongoDb
 						</p>
 						<div className="social-links">
 							{/* linkedIN */}
-							<a href="http://google.com" target="_blank" rel="noopener noreferrer"> 
+							<a href="http://linkedin.com/in/inderorg" target="_blank" rel="noopener noreferrer"> 
 								<i className="fa fa-linkedin-square" aria-hidden="true" />
 							</a>
 
-							<a href="http://google.com" target="_blank" rel="noopener noreferrer"> 
+							<a href="http://github.com/inderorg" target="_blank" rel="noopener noreferrer"> 
 								<i className="fa fa-github-square" aria-hidden="true" />
 							</a>
 
 							{/* free code camp */}
-							<a href="http://google.com" target="_blank" rel="noopener noreferrer"> 
+							<a href="http://freecodecamp.org/inder_org" target="_blank" rel="noopener noreferrer"> 
 								<i className="fa fa-free-code-camp" aria-hidden="true" />
 							</a>
 
 							{/* youtube */}
-							<a href="http://google.com" target="_blank" rel="noopener noreferrer"> 
+							<a href="http://youtube.com/channel/UCDpJ-rXRnj4kSTsQjlPgYlQ" target="_blank" rel="noopener noreferrer"> 
 								<i className="fa fa-youtube-square" aria-hidden="true" />
 							</a>
 

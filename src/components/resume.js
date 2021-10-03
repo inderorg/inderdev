@@ -7,8 +7,8 @@ import Skills from './skills';
 class Resume extends Component{
 	render(){
 		return(
-			<div>
-				<Grid>
+			<div className="contact-body">
+				<Grid className="contact-grid">
 					<Cell col={4}>
 					<div style={{textAlign:'center'}}>
 					<img 
@@ -21,7 +21,7 @@ class Resume extends Component{
 					<h4 style={{color:"grey"}}> programmer </h4>
 					<hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
 					<p>
-						about your career and your skill set shoud explain here
+					Career and skills
 
 					</p>
 					<h4 style={{color:"grey"}}> programmer </h4>
@@ -29,11 +29,11 @@ class Resume extends Component{
 					<p>Apt #303, Santhusti appartments</p>
 					<p>Whitefield, Bangalore</p>
 					<h5>Phone Number.</h5>
-					<p>+91-8792873600</p>
+					<p>+91-9353277279</p>
 					<h5>Email Address</h5>
 					<p>inder.org@gmail.com</p>
 					<h5>Website</h5>
-					<p><a href="inderdev.com">www.inderdev.com</a></p>
+					<p><a href="inderdev.com">www.inderorg.online</a></p>
 					<hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
 
 

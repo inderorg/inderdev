@@ -13,7 +13,14 @@ class Contact extends Component{
 						alt="avatar"
 						style={{height:"250px"}}
 						/>
-						<p style={{width:'75%', margin:'auto', paddingTop:'1em'}}> Hi, I am Inder. Working as a Web Developer and I create awesome Websites UI, Design Spec, Create perfect brading guidlines and logos. I have good Experience of more then 3 years in the area of User Experience and Frontend, I have done projects using HTML. CSS, SASS, Bootstrap, React, Redux, Semantic- UI , React-Mdl, Angular and Wordpress. Looking forward I am working and enchancing my skill in the area of java development and backend development. So, The main objective is to become a fullStack developer.</p>
+						<p style={{width:'75%', margin:'auto', paddingTop:'1em'}}> Hi, I am Inder. Working as a Web Developer and I
+ create awesome Websites UI, Design Spec, 
+Create perfect brading guidlines and logos.
+ I have good Experience of more then 9 years in the area of User Experience and Frontend,
+ I have done projects using HTML. CSS, SASS, Bootstrap, React, Redux, Semantic- UI , React-Mdl, Angular and Wordpress.
+ Looking forward I am working and enchancing my skill in the area of 
+java development and backend development. 
+So, The main objective is to become a fullStack developer.</p>
 
 					</Cell>
 					<Cell col={6}> 
@@ -24,7 +31,7 @@ class Contact extends Component{
 							  <ListItem> 
 							    <ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
 							    <i className="fa fa-phone-square" aria-hidden="true"/>
-							     +91-8792873600
+							     +91-9353277279
 							    </ListItemContent>
 							  </ListItem>
 							  
@@ -32,7 +39,7 @@ class Contact extends Component{
 							  <ListItem> 
 							    <ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
 							    <i className="fa fa-fax" aria-hidden="true"/>
-							     +91-8792873600
+							     +91-9353277279
 							    </ListItemContent>
 							  </ListItem>
 
